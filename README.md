@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Numpy Library**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaik-Imamuudin](https://github.com/Shaik-Imamuddin)
+- 👨‍💻 All of my projects are available at [https://github.com/Shaik-Imamuddin](https://github.com/Shaik-Imamuddin)
 
 - 💬 Ask me about **python/HTML/CSS & SQL**
 
