@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imamuddin Shaik</h1>
-<div align="center"><img src="https://github.com/Shaik-Imamuudin/Shaik-Imamuddin/blob/main/SB%20uni%20int.jpg" alt=""></div>
 <h3 align="center">A passionate Aspiring full-stack developer Looking for an Entry level Position</h3>
-
+<img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-imamuudin&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-imamuudin" /> </p>
 
 - 🔭 I’m currently working on [100DaysCodeChallenge](https://github.com/Shaik-Imamuudin/100DaysCodeChallange)
