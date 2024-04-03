@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imamuddin Shaik</h1>
+<div align="center"><img src="https://github.com/Shaik-Imamuudin/Shaik-Imamuddin/blob/main/SB%20uni%20int.jpg" alt=""></div>
 <h3 align="center">A passionate Aspiring full-stack developer Looking for an Entry level Position</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-imamuudin&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-imamuudin" /> </p>
