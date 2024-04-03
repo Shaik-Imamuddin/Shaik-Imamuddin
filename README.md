@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Imamuddin Shaik</h1>
 <h3 align="center">A passionate Aspiring full-stack developer Looking for an Entry level Position</h3>
 <img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-imamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-imamuudin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-imamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-imamuddin" /> </p>
 
-- 🔭 I’m currently working on [100DaysCodeChallenge](https://github.com/Shaik-Imamuudin/100DaysCodeChallange)
+- 🔭 I’m currently working on [100DaysCodeChallenge](https://github.com/Shaik-Imamuddin/100DaysCodeChallange)
 
 - 🌱 I’m currently learning **Numpy Library**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaik-Imamuudin](https://github.com/Shaik-Imamuudin)
+- 👨‍💻 All of my projects are available at [https://github.com/Shaik-Imamuudin](https://github.com/Shaik-Imamuddin)
 
 - 💬 Ask me about **python/HTML/CSS & SQL**
 
