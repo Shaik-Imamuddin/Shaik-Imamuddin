@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-imamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-imamuddin" /> </p>
 
-- 🔭 I’m currently working on [100DaysCodeChallenge](https://github.com/Shaik-Imamuddin/100DaysCodeChallange)
+- 🔭 I’m currently working on [100DaysCodeChallenge](https://github.com/Shaik-Imamuddin/C_Data_Structures)
 
 - 🌱 I’m currently learning **Numpy Library**
 
